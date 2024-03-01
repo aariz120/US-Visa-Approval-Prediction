@@ -34,3 +34,10 @@ pip install -r requirements.txt
 4.component
 5.pipeline
 6.app.py / demo.py
+
+'''
+Export the Environment variaable
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+'''
